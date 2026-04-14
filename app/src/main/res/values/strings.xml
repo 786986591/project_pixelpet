@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pocket Tama</string>
+    <string name="widget_name">Pocket Tama Widget</string>
+    <string name="widget_description">在桌面上照顾你的像素宠物。</string>
+    <string name="widget_open_app">打开详情</string>
+    <string name="action_feed">喂食</string>
+    <string name="action_play">玩耍</string>
+    <string name="action_clean">清洁</string>
+    <string name="action_sleep">睡觉</string>
+    <string name="status_hunger">饱腹</string>
+    <string name="status_mood">心情</string>
+    <string name="status_cleanliness">清洁</string>
+    <string name="status_energy">精力</string>
+    <string name="screen_title">Pocket Tama</string>
+    <string name="screen_subtitle">桌面常驻的像素宠物原型</string>
+    <string name="stage_egg">孵化期</string>
+    <string name="stage_baby">幼体</string>
+    <string name="stage_child">成长期</string>
+    <string name="stage_adult">成熟体</string>
+    <string name="section_today_log">今日互动</string>
+    <string name="section_settings">设置占位</string>
+    <string name="hint_state_summary">状态会根据你上次互动后的时间自动衰减。</string>
+    <string name="cta_install_widget">长按桌面并添加 Pocket Tama Widget。</string>
+</resources>

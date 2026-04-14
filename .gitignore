@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+**/build/
+
+# Local configuration
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary local analysis folders
+tmp_glance/
+tmp_glance_core/
+tmp_glance_m3/
+
+# Downloaded local Gradle distribution
+gradle-8.10.2/
+gradle-8.10.2-bin.zip
